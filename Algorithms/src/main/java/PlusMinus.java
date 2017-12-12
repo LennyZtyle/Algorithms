@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class PlusMinus {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) {		
 		Scanner s = new Scanner(System.in);
 		int amountValues = s.nextInt();
 		int positive = 0;
