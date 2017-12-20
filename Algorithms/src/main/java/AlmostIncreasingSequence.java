@@ -36,7 +36,6 @@ public class AlmostIncreasingSequence {
 
 		}
 		return true;
-
 	}
 
 }
